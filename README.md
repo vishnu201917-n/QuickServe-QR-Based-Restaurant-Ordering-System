@@ -114,6 +114,3 @@ A QR code image will be generated that links to the digital menu.
 - Sales analytics dashboard
 
 ---
-
-Computer Science Engineering Student  
-PES University
